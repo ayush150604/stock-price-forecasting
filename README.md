@@ -185,12 +185,16 @@ This is a final year project. Feel free to:
 
 ## 📄 License
 
-This project is for educational purposes.
+All right are reserved to ayush singh
 
 ## 👤 Author
 
-Final Year Major Project - Stock Price Trend Forecasting Using Time-Series Models
+Ayush Singh's Final Year Project - Stock Price Trend Forecasting Using Time-Series Models
 
----
 
-**Good luck with your project! 🚀**
+USERNAME → ayush150604
+Name → Ayush Singh
+Email → ayushsingh1562004@gmail.com
+University Name → Dr. A.P.J. Abdul Kalam Technical University, a major state technical university located in Lucknow, Uttar Pradesh
+LinkedIn → https://www.linkedin.com/in/ayush-singh-09418224a/
+
