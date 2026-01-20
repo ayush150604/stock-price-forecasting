@@ -1,0 +1,25 @@
+# Data Collection and Processing
+yfinance
+pandas
+numpy
+
+# Machine Learning Models
+scikit-learn
+statsmodels
+prophet
+
+# Deep Learning (optional - comment out if not needed immediately)
+# tensorflow
+# keras
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Streamlit Dashboard
+streamlit
+
+# Utilities
+joblib
+python-dateutil
