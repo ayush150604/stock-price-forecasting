@@ -195,7 +195,7 @@ Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh
 
 GitHub: @ayush150604
 
-LinkedIn: Ayush Singh
+LinkedIn: Ayush Singh ( https://www.linkedin.com/in/ayush-singh-09418224a/ )
 
 Email: ayushsingh1562004@gmail.com
 
