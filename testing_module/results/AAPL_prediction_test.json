@@ -1,0 +1,23 @@
+{
+    "ticker": "AAPL",
+    "test_date": "2026-03-20 20:20:57",
+    "target_date": "2026-03-20",
+    "arima_order": [
+        0,
+        1,
+        2
+    ],
+    "prediction": 249.30864724749475,
+    "confidence_interval": {
+        "lower": 242.52553954197057,
+        "upper": 256.0917549530189
+    },
+    "actual_value": 248.125,
+    "metrics": {
+        "predicted": 249.30864724749475,
+        "actual": 248.125,
+        "error": -1.183647247494747,
+        "absolute_error": 1.183647247494747,
+        "percentage_error": 0.4770366740532985
+    }
+}

@@ -6,11 +6,9 @@ numpy
 # Machine Learning Models
 scikit-learn
 statsmodels
-prophet
 
-# Deep Learning (optional - comment out if not needed immediately)
-# tensorflow
-# keras
+# Deep Learning
+tensorflow>=2.13.0
 
 # Visualization
 matplotlib

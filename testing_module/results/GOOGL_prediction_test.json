@@ -1,0 +1,23 @@
+{
+    "ticker": "GOOGL",
+    "test_date": "2026-03-20 20:21:03",
+    "target_date": "2026-03-20",
+    "arima_order": [
+        2,
+        1,
+        2
+    ],
+    "prediction": 302.85145543376314,
+    "confidence_interval": {
+        "lower": 296.12009257970834,
+        "upper": 309.58281828781793
+    },
+    "actual_value": 302.45001220703125,
+    "metrics": {
+        "predicted": 302.85145543376314,
+        "actual": 302.45001220703125,
+        "error": -0.40144322673188526,
+        "absolute_error": 0.40144322673188526,
+        "percentage_error": 0.13273043826399047
+    }
+}
