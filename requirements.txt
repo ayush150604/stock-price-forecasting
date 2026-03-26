@@ -1,23 +1,10 @@
-# Data Collection and Processing
-yfinance
-pandas
-numpy
-
-# Machine Learning Models
-scikit-learn
-statsmodels
-
-# Deep Learning
-tensorflow>=2.13.0
-
-# Visualization
-matplotlib
-seaborn
-plotly
-
-# Streamlit Dashboard
-streamlit
-
-# Utilities
-joblib
-python-dateutil
+streamlit==1.32.0
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+scikit-learn==1.4.2
+yfinance==0.2.37
+plotly==5.21.0
+statsmodels==0.14.1
+tensorflow-cpu==2.13.0
