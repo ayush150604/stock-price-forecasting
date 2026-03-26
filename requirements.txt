@@ -1,8 +1,23 @@
-streamlit
+# Data Collection and Processing
+yfinance
 pandas
 numpy
-matplotlib
+
+# Machine Learning Models
 scikit-learn
-yfinance
-plotly
 statsmodels
+
+# Deep Learning
+tensorflow>=2.13.0
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Streamlit Dashboard
+streamlit
+
+# Utilities
+joblib
+python-dateutil
