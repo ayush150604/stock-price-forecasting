@@ -20,4 +20,4 @@ streamlit
 
 # Utilities
 joblib
-python-dateutil 
+python-dateutil

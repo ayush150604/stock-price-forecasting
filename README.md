@@ -56,7 +56,6 @@ Instead of training models on raw, non-stationary stock prices (which often resu
 
 ## 📸 Output Screenshots
 
-*(Note: Create an `images/` folder in your repository and upload your screenshots there to activate these placeholders)*
 
 ### 1. Real-Time Prediction & Visualization
 ![Real-Time Prediction](images/realtime_prediction.png)
@@ -172,8 +171,8 @@ python main_simple.py
 Train the deep learning LSTM models (Requires TensorFlow):
 
 python models/lstm_model.py
-3. Launch the Dashboard
 
+3. Launch the Dashboard
 streamlit run app_with_realtime.py
 📊 Evaluation & Results
 The models are evaluated on the final 20% of the historical dataset (approx. 252 trading days).
@@ -196,7 +195,7 @@ Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh
 
 GitHub: @ayush150604
 
-LinkedIn: Ayush Singh
+LinkedIn: Ayush Singh ( https://www.linkedin.com/in/ayush-singh-09418224a/ )
 
 Email: ayushsingh1562004@gmail.com
 
